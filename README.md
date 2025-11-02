@@ -39,3 +39,8 @@ Ideal for validating skills in frontend development, UI/UX design and state hand
 - Handling calculator logic & input parsing
 - Designing a responsive, modern dark UI
 - Adding hover/active state animations for better UX
+
+## 👤 Author
+Arakhita Sabata
+MERN Stack Developer
+GitHub: arakhitasabata635
