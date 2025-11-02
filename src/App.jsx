@@ -1,6 +1,6 @@
 import ButtonContainer from "./Button";
 import Display from "./display";
-import style from "./App.module.css";
+import  "./App.css";
 import { useState } from "react";
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
 
   return (
     <>
-      <div className={style.calculator}>
+      <div className="calculator">
         <Display disValue={disValue}></Display>
         <ButtonContainer onBUttonClick={onBUttonClick}></ButtonContainer>
       </div>
